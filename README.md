@@ -1,4 +1,4 @@
-##Chrome-Extension-Snippets-Sublime-Text
+##Chrome-Snippets-Sublime-Text
 A set of useful sublime text snippets for chrome extension
 developers
 
