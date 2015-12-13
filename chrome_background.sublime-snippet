@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+"background":\{
+	"scripts":[
+				${1:}
+			  ]
+\}${2:,}
+${3:}
+]]></content>
+	
+	<tabTrigger>ch_background</tabTrigger>
+	
+</snippet>

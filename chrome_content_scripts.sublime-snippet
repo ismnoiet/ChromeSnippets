@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+"content_scripts":[
+    \{
+        "matches":[${1:"*://*/*"}],
+        "js":[${2:}]
+    \}${3:}
+]${4:}	
+
+]]></content>
+	
+	<tabTrigger>cr_content_scripts</tabTrigger>
+	
+</snippet>
