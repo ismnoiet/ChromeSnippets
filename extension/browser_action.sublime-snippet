@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+
+"browser_action":{
+	${1:"default_icon": {                    
+	            "19": "${2:img1}",           
+	            "38": "${3:img2}"            
+	          }},
+    "default_title": "${4:Google Mail}",     
+    "default_popup": "${5:popup.html}",
+    ${6:}
+}
+
+
+]]></content>	
+	<tabTrigger>ch_browser_action</tabTrigger>	
+</snippet>
