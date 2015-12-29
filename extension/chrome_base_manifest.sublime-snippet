@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\{
+	"manifest_version":2,
+	"version":"${1:1.0}",
+	"name":"${2:extension name}",
+	"description":"${3:extension description}"
+	${4:}
+
+\}
+]]></content>	
+	<tabTrigger>ch_base_manifest</tabTrigger>	
+</snippet>
