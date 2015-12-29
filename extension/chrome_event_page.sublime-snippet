@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+"background":{
+    "scripts":[
+               " ${1:background.js}"
+            ],
+        "persistent": false
+}${2:,}
+]]></content>	
+	<tabTrigger>ch_event_page</tabTrigger>	
+</snippet>
