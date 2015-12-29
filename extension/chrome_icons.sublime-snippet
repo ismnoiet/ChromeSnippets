@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+"icons": {
+     "${1:128}": "${2:icon128.png}",
+     "${3:16}": "${4:icon16.png}",
+     "${5:48}": "${6:icon48.png}"
+},
+]]></content>	
+	<tabTrigger>ch_icons</tabTrigger>	
+</snippet>
