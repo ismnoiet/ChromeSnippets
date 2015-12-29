@@ -24,9 +24,14 @@ all of the following snippet names **Must be proceeded** by <kbd>ch_</kbd>.
 
 snippet name  | What it does ?
 ------------- | -------------
-snippet  | to add a minimal manifest.js boilerplate code  
+base_manifest  | to add a minimal manifest.js boilerplate code  
 background  | to add the manifest background attribute
 content_scripts  | to add the manifest content_scripts attribute
+icons  | to add the manifest icons attribute
+permissions  | to add the manifest permissions attribute
+event_page  | to add the manifest event_page attribute
+options_page    | to add the manifest options_page attribute
+browser_action    | to add the manifest browser_action attribute
 
 ##TODO
-A lot more snippets are coming, so stay tuned :)
+A lot more snippets are coming soon, so stay tuned :)
