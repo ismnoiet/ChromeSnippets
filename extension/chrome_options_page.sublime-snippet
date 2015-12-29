@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+"options_page": "${1:options.html}",
+${2:}
+]]></content>	
+	<tabTrigger>ch_options_page</tabTrigger>	
+</snippet>
