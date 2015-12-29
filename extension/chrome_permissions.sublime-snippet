@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+"permissions":["${1:tabs}"]
+]]></content>	
+	<tabTrigger>ch_permissions</tabTrigger>	
+</snippet>
