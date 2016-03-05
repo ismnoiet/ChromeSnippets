@@ -2,6 +2,8 @@
 A set of useful sublime text snippets for chrome extension
 developers
 
+## Important 
+**If you want to have auto-complete for Google Chrome Javascript API you can check** [Google-Chrome-JavaScript-API-Auto-complete](https://github.com/ismnoiet/Google-Chrome-JavaScript-API-Auto-complete)
 ## Installation
 You have two options to install this plugin,
 the manual option and the package control one(the easy choice)
