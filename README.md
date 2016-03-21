@@ -1,18 +1,18 @@
 ##Chrome-Snippets-Sublime-Text
 A set of useful sublime text snippets for chrome extension
-developers
+developers.
 
 ## Important 
 **If you want to have auto-complete for Google Chrome Javascript API you can check** [Google-Chrome-JavaScript-API-Auto-complete](https://github.com/ismnoiet/Google-Chrome-JavaScript-API-Auto-complete)
 ## Installation
 You have two options to install this plugin,
-the manual option and the package control one(the easy choice)
+the manual option and the package control one(the easy choice).
 
 ### manually
-You can easily install this plugin manually, simply download the zip file and extract it to sublime text   **Packages** folder
+You can easily install this plugin manually, simply download the zip file and extract it to sublime text   **Packages** folder.
 
 ### Package Control
-Will be available very soon
+hit <kbd>ctrl</kbd> + <kbd>shift</kbd> +  <kbd>p</kbd>  >  ``"install packages"``  >  ``"Chrome Snippets"``
 
 ## How does it work ?
 Just type in the prefix <kbd>ch_</kbd> (shortcut for chrome) followed by what you want to add,
