@@ -12,7 +12,7 @@ the manual option and the package control one(the easy choice).
 You can easily install this plugin manually, simply download the zip file and extract it to sublime text   **Packages** folder.
 
 ### Package Control
-hit <kbd>ctrl</kbd> + <kbd>shift</kbd> +  <kbd>p</kbd>  >  ``"install packages"``  >  ``"Chrome Snippets"``
+hit <kbd>ctrl</kbd> + <kbd>shift</kbd> +  <kbd>p</kbd>  >  ``"install packages"``  >  ``"Chrome Snippets"``.
 
 ## How does it work ?
 Just type in the prefix <kbd>ch_</kbd> (shortcut for chrome) followed by what you want to add,
@@ -36,4 +36,4 @@ options_page    | to add the manifest options_page attribute
 browser_action    | to add the manifest browser_action attribute
 
 ##TODO
-A lot more snippets are coming soon, so stay tuned :)
+A lot more snippets are coming soon, so stay tuned :).
